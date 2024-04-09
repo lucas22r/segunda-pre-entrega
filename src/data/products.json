@@ -1,0 +1,101 @@
+[
+	{
+		"id": 1,
+		"category": "Merchandising",
+		"title": "hot since 82 T-shirt",
+		"price": 45000,
+		"Description": "Short t-shirt from the British DJ Hot since 82..",
+		"stock": 50,
+		"pictureUrl": "http://dummyimage.com/300x300.png/cc0000/ffffff"
+	},
+	{
+		"id": 2,
+		"category": "Music",
+		"title": "Album Daft Punk RAM",
+		"price": 60000,
+		"Description": "Album by the band daft punk (Random Acces Memories).",
+		"stock": 25,
+		"pictureUrl": "http://dummyimage.com/300x300.png/dddddd/000000"
+	},
+	{
+		"id": 3,
+		"category": "Tickets",
+		"title": "afterlife vip standing ticket",
+		"price": 110000,
+		"Description": "tickets AfterLife VIP standing day one.",
+		"stock": 20,
+		"pictureUrl": "http://dummyimage.com/300x300.png/5fa2dd/ffffff"
+	},
+	{
+		"id": 4,
+		"category": "Tickets",
+		"title": "afterlife vip standing ticket",
+		"price": 90000,
+		"Description": "tickets AfterLife VIP standing day two.",
+		"stock": 25,
+		"pictureUrl": "http://dummyimage.com/300x300.png/5fa2dd/ffffff"
+	},
+	{
+		"id": 5,
+		"category": "Merchandising",
+		"title": "boris brejcha hoodie",
+		"price": 68000,
+		"Description": "hoodie of the german dj boris brejcha.",
+		"stock": 48,
+		"pictureUrl": "http://dummyimage.com/300x300.png/ff4444/ffffff"
+	},
+	{
+		"id": 6,
+		"category": "Merchandising",
+		"title": "daft punk movie",
+		"price": 25000,
+		"Description": "daft punk movie interstellar 555.",
+		"stock": 32,
+		"pictureUrl": "http://dummyimage.com/300x300.png/cc0000/ffffff"
+	},
+	{
+		"id": 7,
+		"category": "Music",
+		"title": "album recess skrillex",
+		"price": 60000,
+		"Description": "Recess is the first studio album by American DJ and producer Skrillex.",
+		"stock": 37,
+		"pictureUrl": "http://dummyimage.com/300x300.png/cc0000/ffffff"
+	},
+	{
+		"id": 8,
+		"category": "Tickets",
+		"title": "Tomorrowland day one",
+		"price": 150000,
+		"Description": "ticket-pass to the festival tomorrowland day one.",
+		"stock": 38,
+		"pictureUrl": "http://dummyimage.com/300x300.png/cc0000/ffffff"
+	},
+	{
+		"id": 9,
+		"category": "Music",
+		"title": "album stories avicci",
+		"price": 54000,
+		"Description": "Stories is the title of the second studio album by Swedish disc jockey and producer Avicii..",
+		"stock": 60,
+		"pictureUrl": "http://dummyimage.com/300x300.png/cc0000/ffffff"
+	},
+	{
+		"id": 10,
+		"category": "Tickets",
+		"title": "tomorrowland day two",
+		"price": 200000,
+		"Description": "ticket-pass to the festival tomorrowland day two.",
+		"stock": 25,
+		"pictureUrl": "http://dummyimage.com/300x300.png/ff4444/ffffff"
+	  },
+	  {
+		"id": 11,
+		"category": "Tickets",
+		"title": "tomorrowland day three",
+		"price": 180000,
+		"Description": "ticket-pass to the festival tomorrowland day three.",
+		"stock": 25,
+		"pictureUrl": "http://dummyimage.com/300x300.png/ff4444/ffffff"
+	  }
+]
